@@ -2,5 +2,5 @@
 
 Skills
 - Python,c#,c++,sql,html,css
-- Django,Asp.Net Webform.
+- Django,Django Rest Framework,Asp.Net Webform.
 
