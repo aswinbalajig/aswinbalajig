@@ -29,6 +29,4 @@
 
     AWS Cloud Practitioner Essentials
 
-Let’s connect!
-📫 Email: aswinbalaji.gurumani@gmail.com
-🌐 GitHub: aswinbalajig
+
