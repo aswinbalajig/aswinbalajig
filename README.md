@@ -28,5 +28,5 @@
 📜 Certifications:
 
     AWS Cloud Practitioner Essentials
-
+    React.js Udemy Course
 
