@@ -4,10 +4,10 @@
 
 🔧 Tech Stack:
 
-    Languages: Python, JavaScript, C++, C#, HTML, CSS
-    Frameworks: Django, ASP.NET Webforms
+    Languages: Python, JavaScript, C++,HTML, CSS
+    Frameworks: React.js,Node.js,Django,Django Rest Framework 
     Tools/Platforms: Git, GitHub, VS Code
-    Databases: MySQL
+    Databases: MySQL,PostGres
 
 💼 Experience:
 
@@ -16,7 +16,7 @@
     Specialized in secure API design, backend integration, and web development.
 📚 Education:
 
-    Master of Computer Applications (MCA), PSG College of Arts & Science (CGPA: 8.5/10)
+    Master of Computer Applications (MCA), PSG College of Arts & Science (CGPA: 7.7/10)
     Bachelor of Science (Computer Science), Guru Nanak College (CGPA: 8.6/10)
 
 🚀 Projects:
